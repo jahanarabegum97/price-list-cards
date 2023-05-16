@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1, 
+    "name": "Basic Membership ",
+    "price": 50,
+    "features": ["Access to gym equipment", "Locker rental"],
+    "sorter": 1
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 100,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Group fitness classes",
+      "Personal training sessions"
+    ],
+    "sorter": 2
+  },
+  {
+    "id": 3,
+    "name": "Elite Membership",
+    "price": 150,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Group fitness classes",
+      "Personal training sessions",
+      "Access to sauna and steam room"
+    ],
+    "sorter": 3
+  }
+]
